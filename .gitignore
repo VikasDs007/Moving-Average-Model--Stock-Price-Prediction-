@@ -1,0 +1,23 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb-filter
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+
+# Generated files from Data Visualization.ipynb
+pivot_table.xlsx
+my_test.png
+
+# Generated files from Moving Average Model.ipynb
+# Update or add these based on your saved Plotly outputs
+abcapital_candlestick_chart.html
+exponential_smoothing_forecast.html
